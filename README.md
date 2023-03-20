@@ -3,8 +3,8 @@
 <img src="https://github.com/mhmdrfaai/mhmdrfaai/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/mhmdrfaai" alt="CoDiNg RocKs"  width="60%"/><br> 
   
 ![Totals Hits](https://komarev.com/ghpvc/?username=mhmdrfaai&style=flat&color=blue&label=PROFILE+VIEWS)
- [![instagram badge](https://img.shields.io/badge/mhmdrfaai-blue?style=flat&logo=twitter)](https://twitter.com/mhmdrfaai)
-[![instagram badge](https://img.shields.io/badge/mhmdrfaai-blueviolet?style=flat&logo=instagram)](https://instagram.com/mhmdrfaai) <br>
+ [![instagram badge](https://img.shields.io/badge/mhmdrfaai-blue?style=flat&logo=twitter)](https://twitter.com/kepo)
+[![instagram badge](https://img.shields.io/badge/mhmdrfaai-blueviolet?style=flat&logo=instagram)](https://instagram.com/martdova) <br>
 </div>
 
 <hr></hr>
